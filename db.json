@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "brush teet",
+      "day": "tuesday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Go to the gym",
+      "day": "8:00am Monday",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
