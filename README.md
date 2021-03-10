@@ -1,4 +1,4 @@
-# Task Tracker Application with React.js
+# Task Tracker Application with React
 
 ![alt text](./img/react.jpg)
 
